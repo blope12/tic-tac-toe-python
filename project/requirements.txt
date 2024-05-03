@@ -1,0 +1,9 @@
+in this project you have to install and download ==>
+
+=============
+. curses
+. pytest
+=============
+
+
+that was my last project
